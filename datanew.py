@@ -1,2 +1,2 @@
-print "added new python file"
+print "added new "
 print "fdgdggfg"
